@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td,th{
+    borfer: 2px splid black;
+}
